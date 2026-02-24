@@ -12,6 +12,6 @@ public class Csecontroller {
 	
 	@GetMapping("/cse")
 	public String rocks1() {
-		return "Welcome to Third year cse";
+		return "Welcome to Third year cse from aditya University";
 	}
 }
