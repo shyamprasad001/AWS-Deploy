@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.RestController;
 public class Csecontroller {
 	@GetMapping("/home")
 	public String rocks() {
-		return "Welcome to Jenkins AWS";
-	}
+		return "Welcome to Jenkins AWS From YDP SIR";
+	} 
 	
 	@GetMapping("/cse")
 	public String rocks1() {
