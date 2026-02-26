@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class Csecontroller {
 	@GetMapping("/home")
 	public String rocks() {
-		return "This is my fisrt Spring boot AWS EC2 Project";
+		return "Durga Prasad Is DevOps Faculty";
 	} 
 	
 	@GetMapping("/cse")
